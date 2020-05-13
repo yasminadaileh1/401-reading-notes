@@ -1,4 +1,3 @@
-
 # 401-Readings-Notes :bowtie:
 
 ### Outcomes :sunglasses:
@@ -13,10 +12,10 @@
 
 :smiley:
 
-| 401 course   | Title                      |
-| ------------ | -------------------------- |
-| [Prep]()     | Engineering Topics         |
+| 401 course                                                              | Title                      |
+| ----------------------------------------------------------------------- | -------------------------- |
+| [Prep](https://yasminadaileh1.github.io/401-reading-notes/prep)         | Engineering Topics         |
 | [Class-01](https://yasminadaileh1.github.io/401-reading-notes/class-01) | Node Ecosystem, TDD, CI/CD |
-| [Class-02]() |                            |
-| [Class-03]() |                            |
-| [Class-04]() |                            |
+| [Class-02]()                                                            |                            |
+| [Class-03]()                                                            |                            |
+| [Class-04]()                                                            |                            |
