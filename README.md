@@ -16,6 +16,6 @@
 | ----------------------------------------------------------------------- | -------------------------- |
 | [Prep](https://yasminadaileh1.github.io/401-reading-notes/prep)         | Engineering Topics         |
 | [Class-01](https://yasminadaileh1.github.io/401-reading-notes/class-01) | Node Ecosystem, TDD, CI/CD |
-| [Class-02]()                                                            |                            |
+| [Class-02](https://yasminadaileh1.github.io/401-reading-notes/class-02) | Classes, Inheritance, FP   |
 | [Class-03]()                                                            |                            |
 | [Class-04]()                                                            |                            |
