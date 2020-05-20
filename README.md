@@ -19,3 +19,4 @@
 | [Class-02](https://yasminadaileh1.github.io/401-reading-notes/class-02) | Classes, Inheritance, FP        |
 | [Class-03](https://yasminadaileh1.github.io/401-reading-notes/class-03) | Data Modeling & NoSQL Databases |
 | [Class-04](https://yasminadaileh1.github.io/401-reading-notes/class-04) | Advanced Mongo/Mongoose         |
+| [Class-05](https://yasminadaileh1.github.io/401-reading-notes/class-05) | Linked Lists                    |
