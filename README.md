@@ -21,3 +21,12 @@
 | [Class-04](https://yasminadaileh1.github.io/401-reading-notes/class-04) | Advanced Mongo/Mongoose         |
 | [Class-05](https://yasminadaileh1.github.io/401-reading-notes/class-05) | Linked Lists                    |
 | [Class-06](https://yasminadaileh1.github.io/401-reading-notes/class-06) | HTTP and REST                   |
+| [Class-07](https://yasminadaileh1.github.io/401-reading-notes/class-07) | Express                         |
+| [Class-08](https://yasminadaileh1.github.io/401-reading-notes/class-08) |                                 |
+| [Class-09](https://yasminadaileh1.github.io/401-reading-notes/class-09) |                                 |
+| [Class-10](https://yasminadaileh1.github.io/401-reading-notes/class-10) |                                 |
+| [Class-11](https://yasminadaileh1.github.io/401-reading-notes/class-11) |                                 |
+| [Class-12](https://yasminadaileh1.github.io/401-reading-notes/class-12) |                                 |
+| [Class-13](https://yasminadaileh1.github.io/401-reading-notes/class-13) |                                 |
+| [Class-14](https://yasminadaileh1.github.io/401-reading-notes/class-14) |                                 |
+| [Class-15](https://yasminadaileh1.github.io/401-reading-notes/class-15) |                                 |
