@@ -22,7 +22,7 @@
 | [Class-05](https://yasminadaileh1.github.io/401-reading-notes/class-05) | Linked Lists                    |
 | [Class-06](https://yasminadaileh1.github.io/401-reading-notes/class-06) | HTTP and REST                   |
 | [Class-07](https://yasminadaileh1.github.io/401-reading-notes/class-07) | Express                         |
-| [Class-08](https://yasminadaileh1.github.io/401-reading-notes/class-08) |                                 |
+| [Class-08](https://yasminadaileh1.github.io/401-reading-notes/class-08) | Express Routing & Connected API |
 | [Class-09](https://yasminadaileh1.github.io/401-reading-notes/class-09) |                                 |
 | [Class-10](https://yasminadaileh1.github.io/401-reading-notes/class-10) |                                 |
 | [Class-11](https://yasminadaileh1.github.io/401-reading-notes/class-11) |                                 |
