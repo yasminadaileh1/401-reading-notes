@@ -27,6 +27,6 @@
 | [Class-10](https://yasminadaileh1.github.io/401-reading-notes/class-10) | Implementation: Stacks and Queues |
 | [Class-11](https://yasminadaileh1.github.io/401-reading-notes/class-11) | Authentication                    |
 | [Class-12](https://yasminadaileh1.github.io/401-reading-notes/class-12) | OAuth                             |
-| [Class-13](https://yasminadaileh1.github.io/401-reading-notes/class-13) |                                   |
+| [Class-13](https://yasminadaileh1.github.io/401-reading-notes/class-13) | Bearer Authorization              |
 | [Class-14](https://yasminadaileh1.github.io/401-reading-notes/class-14) |                                   |
 | [Class-15](https://yasminadaileh1.github.io/401-reading-notes/class-15) |                                   |
