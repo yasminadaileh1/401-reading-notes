@@ -28,5 +28,5 @@
 | [Class-11](https://yasminadaileh1.github.io/401-reading-notes/class-11) | Authentication                    |
 | [Class-12](https://yasminadaileh1.github.io/401-reading-notes/class-12) | OAuth                             |
 | [Class-13](https://yasminadaileh1.github.io/401-reading-notes/class-13) | Bearer Authorization              |
-| [Class-14](https://yasminadaileh1.github.io/401-reading-notes/class-14) |                                   |
+| [Class-14](https://yasminadaileh1.github.io/401-reading-notes/class-14) | Access Control (ACL)              |
 | [Class-15](https://yasminadaileh1.github.io/401-reading-notes/class-15) |                                   |
