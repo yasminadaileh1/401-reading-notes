@@ -29,4 +29,19 @@
 | [Class-12](https://yasminadaileh1.github.io/401-reading-notes/class-12) | OAuth                             |
 | [Class-13](https://yasminadaileh1.github.io/401-reading-notes/class-13) | Bearer Authorization              |
 | [Class-14](https://yasminadaileh1.github.io/401-reading-notes/class-14) | Access Control (ACL)              |
-| [Class-15](https://yasminadaileh1.github.io/401-reading-notes/class-15) |                                   |
+| [Class-15](https://yasminadaileh1.github.io/401-reading-notes/class-15) | Trees                             |
+| [Class-16](https://yasminadaileh1.github.io/401-reading-notes/class-16) |                                   |
+| [Class-17](https://yasminadaileh1.github.io/401-reading-notes/class-17) |                                   |
+| [Class-18](https://yasminadaileh1.github.io/401-reading-notes/class-18) |                                   |
+| [Class-19](https://yasminadaileh1.github.io/401-reading-notes/class-19) |                                   |
+| [Class-20](https://yasminadaileh1.github.io/401-reading-notes/class-20) |                                   |
+| [Class-21](https://yasminadaileh1.github.io/401-reading-notes/class-21) |                                   |
+| [Class-22](https://yasminadaileh1.github.io/401-reading-notes/class-22) |                                   |
+| [Class-23](https://yasminadaileh1.github.io/401-reading-notes/class-23) |                                   |
+| [Class-24](https://yasminadaileh1.github.io/401-reading-notes/class-24) |                                   |
+| [Class-25](https://yasminadaileh1.github.io/401-reading-notes/class-25) |                                   |
+| [Class-26](https://yasminadaileh1.github.io/401-reading-notes/class-26) |                                   |
+| [Class-27](https://yasminadaileh1.github.io/401-reading-notes/class-27) |                                   |
+| [Class-28](https://yasminadaileh1.github.io/401-reading-notes/class-28) |                                   |
+| [Class-29](https://yasminadaileh1.github.io/401-reading-notes/class-29) |                                   |
+| [Class-30](https://yasminadaileh1.github.io/401-reading-notes/class-30) |                                   |
