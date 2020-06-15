@@ -32,7 +32,7 @@
 | [Class-15](https://yasminadaileh1.github.io/401-reading-notes/class-15) | Trees                             |
 | [Class-16](https://yasminadaileh1.github.io/401-reading-notes/class-16) | Event Driven Applications         |
 | [Class-17](https://yasminadaileh1.github.io/401-reading-notes/class-17) | TCP Servers                       |
-| [Class-18](https://yasminadaileh1.github.io/401-reading-notes/class-18) |                                   |
+| [Class-18](https://yasminadaileh1.github.io/401-reading-notes/class-18) | Socket.io                         |
 | [Class-19](https://yasminadaileh1.github.io/401-reading-notes/class-19) |                                   |
 | [Class-20](https://yasminadaileh1.github.io/401-reading-notes/class-20) |                                   |
 | [Class-21](https://yasminadaileh1.github.io/401-reading-notes/class-21) |                                   |
