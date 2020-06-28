@@ -34,14 +34,14 @@
 | [Class-17](https://yasminadaileh1.github.io/401-reading-notes/class-17) | TCP Servers                       |
 | [Class-18](https://yasminadaileh1.github.io/401-reading-notes/class-18) | Socket.io                         |
 | [Class-19](https://yasminadaileh1.github.io/401-reading-notes/class-19) | Message Queues                    |
-| [Class-20](https://yasminadaileh1.github.io/401-reading-notes/class-20) |                                   |
-| [Class-21](https://yasminadaileh1.github.io/401-reading-notes/class-21) |                                   |
-| [Class-22](https://yasminadaileh1.github.io/401-reading-notes/class-22) |                                   |
-| [Class-23](https://yasminadaileh1.github.io/401-reading-notes/class-23) |                                   |
-| [Class-24](https://yasminadaileh1.github.io/401-reading-notes/class-24) |                                   |
-| [Class-25](https://yasminadaileh1.github.io/401-reading-notes/class-25) |                                   |
-| [Class-26](https://yasminadaileh1.github.io/401-reading-notes/class-26) |                                   |
-| [Class-27](https://yasminadaileh1.github.io/401-reading-notes/class-27) |                                   |
-| [Class-28](https://yasminadaileh1.github.io/401-reading-notes/class-28) |                                   |
-| [Class-29](https://yasminadaileh1.github.io/401-reading-notes/class-29) |                                   |
-| [Class-30](https://yasminadaileh1.github.io/401-reading-notes/class-30) |                                   |
+| [Class-20](https://yasminadaileh1.github.io/401-reading-notes/class-26) |  Component Based UI                                 |
+| [Class-21](https://yasminadaileh1.github.io/401-reading-notes/class-27) |                                   |
+| [Class-22](https://yasminadaileh1.github.io/401-reading-notes/class-28) |                                   |
+| [Class-23](https://yasminadaileh1.github.io/401-reading-notes/class-29) |                                   |
+| [Class-24](https://yasminadaileh1.github.io/401-reading-notes/class-30) |                                   |
+| [Class-25](https://yasminadaileh1.github.io/401-reading-notes/class-31) |                                   |
+| [Class-26](https://yasminadaileh1.github.io/401-reading-notes/class-32) |                                   |
+| [Class-27](https://yasminadaileh1.github.io/401-reading-notes/class-33) |                                   |
+| [Class-28](https://yasminadaileh1.github.io/401-reading-notes/class-34) |                                   |
+| [Class-29](https://yasminadaileh1.github.io/401-reading-notes/class-35) |                                   |
+| [Class-30](https://yasminadaileh1.github.io/401-reading-notes/class-36) |                                   |
