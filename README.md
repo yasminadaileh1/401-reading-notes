@@ -37,7 +37,7 @@
 | [Class-26](https://yasminadaileh1.github.io/401-reading-notes/class-26) | Component Based UI                |
 | [Class-27](https://yasminadaileh1.github.io/401-reading-notes/class-27) | React Testing and Deployment      |
 | [Class-28](https://yasminadaileh1.github.io/401-reading-notes/class-28) | Props and State                   |
-| [Class-29](https://yasminadaileh1.github.io/401-reading-notes/class-29) |                                   |
+| [Class-29](https://yasminadaileh1.github.io/401-reading-notes/class-29) | Component Composition             |
 | [Class-30](https://yasminadaileh1.github.io/401-reading-notes/class-30) |                                   |
 | [Class-31](https://yasminadaileh1.github.io/401-reading-notes/class-31) |                                   |
 | [Class-32](https://yasminadaileh1.github.io/401-reading-notes/class-32) |                                   |
