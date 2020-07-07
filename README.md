@@ -39,9 +39,9 @@
 | [Class-28](https://yasminadaileh1.github.io/401-reading-notes/class-28) | Props and State                   |
 | [Class-29](https://yasminadaileh1.github.io/401-reading-notes/class-29) | Component Composition             |
 | [Class-30](https://yasminadaileh1.github.io/401-reading-notes/class-30) | Hash Tables                       |
-| [Class-31](https://yasminadaileh1.github.io/401-reading-notes/class-31) |                                   |
-| [Class-32](https://yasminadaileh1.github.io/401-reading-notes/class-32) |                                   |
-| [Class-33](https://yasminadaileh1.github.io/401-reading-notes/class-33) |                                   |
-| [Class-34](https://yasminadaileh1.github.io/401-reading-notes/class-34) |                                   |
+| [Class-31](https://yasminadaileh1.github.io/401-reading-notes/class-31) | Hooks API                         |
+| [Class-32](https://yasminadaileh1.github.io/401-reading-notes/class-32) | Custom Hooks                      |
+| [Class-33](https://yasminadaileh1.github.io/401-reading-notes/class-33) | Context API                       |
+| [Class-34](https://yasminadaileh1.github.io/401-reading-notes/class-34) | Authentication                    |
 | [Class-35](https://yasminadaileh1.github.io/401-reading-notes/class-35) |                                   |
 | [Class-36](https://yasminadaileh1.github.io/401-reading-notes/class-36) |                                   |

@@ -1,16 +1,16 @@
-# Context API
+# Context API :bowtie:
 
-## Context
+## Context :punch:
 
 **Context** provides a way to pass data through the component tree **without having to pass props** down manually at every level.
 
 
-#### When to Use Context
+#### When to Use Context :eyes:
 Context is designed to **share data** that can be considered `“global”` for a tree of React components, such as the current *authenticated user*, *theme*, or *preferred language*.
 **Context** is primarily used when some **data needs to be accessible** by many components at different nesting levels. Apply it sparingly because it **makes component reuse** more difficult.
 
 
-#### API
+#### API :paw_prints:
 
 - `React.createContext`:
 Creates a Context object. When React renders a component that subscribes to this Context object it will **read** the current **context value** from the **closest matching Provider** above it in the tree.
@@ -44,12 +44,12 @@ Context object accepts a displayName **string property**. React DevTools uses th
 When the nearest `<MyContext.Provider>` above the component **updates**, this Hook will **trigger a rerender with the latest context value passed** to that MyContext provider. Even if an ancestor uses `React.memo` or `shouldComponentUpdate`, a rerender will still happen starting at the component itself using `useContext`.
 
 
-## Snackbars in React: An Exercise in Hooks and Context
+## Snackbars in React: An Exercise in Hooks and Context :tulip:
 
 #### Necessity for the Design System:
 They are **small notifications** that show up on the screen when a user **performs an action**. They are not intrusive at all and **appear for just a brief moment**.
 
-#### Globally Accessible
+#### Globally Accessible :earth_africa:
 The state can be **localized** to a single centralized component. That same centralized component can be **responsible for rendering them**. There’s really no need for another component somewhere in the tree to hook into that state. The management of that **state** (**adding**, **removing**) needs to be **globally accessible**.
 
 
