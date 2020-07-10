@@ -44,4 +44,4 @@
 | [Class-33](https://yasminadaileh1.github.io/401-reading-notes/class-33) | Context API                       |
 | [Class-34](https://yasminadaileh1.github.io/401-reading-notes/class-34) | Authentication                    |
 | [Class-35](https://yasminadaileh1.github.io/401-reading-notes/class-35) | Graphs                            |
-| [Class-36](https://yasminadaileh1.github.io/401-reading-notes/class-36) |                                   |
+| [Class-36](https://yasminadaileh1.github.io/401-reading-notes/class-36) | Application State with Redux      |
