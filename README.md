@@ -45,3 +45,15 @@
 | [Class-34](https://yasminadaileh1.github.io/401-reading-notes/class-34) | Authentication                    |
 | [Class-35](https://yasminadaileh1.github.io/401-reading-notes/class-35) | Graphs                            |
 | [Class-36](https://yasminadaileh1.github.io/401-reading-notes/class-36) | Application State with Redux      |
+| [Class-37](https://yasminadaileh1.github.io/401-reading-notes/class-37) | Redux - Combined Reducers         |
+| [Class-38](https://yasminadaileh1.github.io/401-reading-notes/class-38) |                                   |
+| [Class-39](https://yasminadaileh1.github.io/401-reading-notes/class-39) |                                   |
+| [Class-40](https://yasminadaileh1.github.io/401-reading-notes/class-40) |                                   |
+| [Class-41](https://yasminadaileh1.github.io/401-reading-notes/class-41) |                                   |
+| [Class-42](https://yasminadaileh1.github.io/401-reading-notes/class-42) |                                   |
+| [Class-43](https://yasminadaileh1.github.io/401-reading-notes/class-43) |                                   |
+| [Class-44](https://yasminadaileh1.github.io/401-reading-notes/class-44) |                                   |
+| [Class-45](https://yasminadaileh1.github.io/401-reading-notes/class-45) |                                   |
+| [Class-46](https://yasminadaileh1.github.io/401-reading-notes/class-46) |                                   |
+| [Class-47](https://yasminadaileh1.github.io/401-reading-notes/class-47) |                                   |
+| [Class-48](https://yasminadaileh1.github.io/401-reading-notes/class-48) |                                   |
