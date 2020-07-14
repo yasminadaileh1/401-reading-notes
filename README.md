@@ -46,7 +46,7 @@
 | [Class-35](https://yasminadaileh1.github.io/401-reading-notes/class-35) | Graphs                            |
 | [Class-36](https://yasminadaileh1.github.io/401-reading-notes/class-36) | Application State with Redux      |
 | [Class-37](https://yasminadaileh1.github.io/401-reading-notes/class-37) | Redux - Combined Reducers         |
-| [Class-38](https://yasminadaileh1.github.io/401-reading-notes/class-38) |                                   |
+| [Class-38](https://yasminadaileh1.github.io/401-reading-notes/class-38) | Redux - Asynchronous Actions      |
 | [Class-39](https://yasminadaileh1.github.io/401-reading-notes/class-39) |                                   |
 | [Class-40](https://yasminadaileh1.github.io/401-reading-notes/class-40) |                                   |
 | [Class-41](https://yasminadaileh1.github.io/401-reading-notes/class-41) |                                   |
